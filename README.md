@@ -7,4 +7,4 @@ Requirements: 2 excel/workbook sheets (/tmp and /Portfolio)
 
 Portfolio worksheet is formatted like this: 
 
-![format](https://imgur.com/FYMTE87)
+![Imgur](https://i.imgur.com/FYMTE87.png)
